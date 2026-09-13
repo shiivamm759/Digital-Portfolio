@@ -35,9 +35,9 @@ export const education = [
     location: "Dumraon, Bihar",
     duration: "Apr' 22 – Mar' 24",
     status: "Completed",
-    grade: "PCM: 74.3%",
+    grade: "PCM: 64.4%",
     description: "Senior secondary education specializing in Physics, Chemistry, and Mathematics (PCM).",
-    highlight: "Score: 74.3%"
+    highlight: "Score: 64.4%"
   },
   {
     id: "cambridge",
